@@ -15,7 +15,7 @@ You are **100%** free to use my projects for whatever you want! But also remembe
 ## How can I contact you? ✉️
 _For business related inquiries, you can write me here:_
 
-![Code Palace](https://img.shields.io/badge/codepalace-grey?logo=googlemessages&?style=flat) +
+![Code Palace](https://img.shields.io/badge/codepalace-grey?style=flat) +
 ![Code Palace](https://img.shields.io/badge/@fastmail.se-informational?style=flat) 
 
 
