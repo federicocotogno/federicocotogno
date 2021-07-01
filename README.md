@@ -6,3 +6,7 @@ Hey there! I'm Federico, the brain behind **Code Palace**. I'm a self-taught pro
 
 You are **100%** free to use my projects for whatever you want! But also remember to do some research on the packages/dependencies I use, because some of those might contain some legal information in terms of usage.
 
+
+![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCuudpdbKmQWq2PPzYgVCWlA?label=Code%20Palace&style=social)
+![Code Palace](https://img.shields.io/github/followers/federicocotogno?style=social)
+
