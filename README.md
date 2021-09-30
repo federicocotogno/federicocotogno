@@ -2,7 +2,7 @@
 
 #### Who am I?
 
-Hey there! I'm Federico, and I'm a course instructor at **Code Palace** and on **Udemy**. I've been teaching programming concepts since 2019 and I love it not only because it helps thousands of people around the world to create something great, but also because it gives me the opportunity to really dive deep into a subject and to make sure I understand it.
+Hey there! I'm Federico, and I'm a course instructor at **Code Palace**. I've been teaching programming concepts since 2019 and I love it not only because it helps thousands of people around the world to create something great, but also because it gives me the opportunity to really dive deep into a subject and to make sure I understand it.
 
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCuudpdbKmQWq2PPzYgVCWlA?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
