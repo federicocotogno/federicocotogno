@@ -1,10 +1,7 @@
 ## About me
 My name is Federico and I'm a self taught developer that founded **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
 
-## Current projects
-In October 2021, I bought a MacBook capable of running Xcode and therefore was able to embark on an iOS development journey. Today I'm working hard to master the tools and frameworks that will allow me to create inovative iOS apps.
-
-## What do you teach?
+## What I teach
 Currently I'm teaching native iOS development with SwiftUI. I also really like to teach how to create useful scripts with Python to simplify everyday life. 
 
 _You can find out more about what I teach **[here](https://www.youtube.com/c/CodePalace/)**._
