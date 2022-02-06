@@ -11,6 +11,17 @@ Currently I'm teaching native iOS development with SwiftUI. I also really like t
 
 _You can find out more about what I teach **[here](https://www.youtube.com/c/CodePalace/)**._
 
+```python
+
+
+def makeMoney():
+    money = 0
+    while True:
+          money += 1
+    
+makeMoney()
+```
+
 ## Contact
 If you'd like to contact me, you can do so through **[LinkedIn](https://www.linkedin.com/in/federicocotogno/)**.
 
