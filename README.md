@@ -1,6 +1,11 @@
 ## About me
 My name is Federico and I'm a self taught developer that founded **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
 
+```swift
+let text = "Learn to code for free!"
+print(text)
+```
+
 ## What I teach
 Currently I'm teaching native iOS development with SwiftUI. I also really like to teach how to create useful scripts with Python to simplify everyday life. 
 
@@ -8,7 +13,6 @@ _You can find out more about what I teach **[here](https://www.youtube.com/c/Cod
 
 ## Contact
 If you'd like to contact me, you can do so through **[LinkedIn](https://www.linkedin.com/in/federicocotogno/)**.
-
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCuudpdbKmQWq2PPzYgVCWlA?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
 [![Code Palace](https://img.shields.io/twitter/follow/federicocotogno?label=Twitter)](https://twitter.com/federicocotogno)
