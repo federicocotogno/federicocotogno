@@ -1,9 +1,17 @@
-### About me
+## About me
+My name is Federico and I'm a self taught developer that founded **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
 
-Hello world! I'm Federico, and I'm a course instructor at **Code Palace**.
+## Current projects
+In October 2021, I bought a MacBook capable of running Xcode and therefore was able to embark on an iOS development journey. Today I'm working hard to master the tools and frameworks that will allow me to create inovative iOS apps.
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=federicocotogno&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+## What do you teach?
+Currently I'm teaching native iOS development with SwiftUI. I also really like to teach how to create useful scripts with Python to simplify everyday life. 
+
+_You can find out more about what I teach **[here](https://www.youtube.com/c/CodePalace/)**._
+
+## Contact
+If you'd like to contact me, you can do so through **[LinkedIn](https://www.linkedin.com/in/federicocotogno/)**.
+
 
 [![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCuudpdbKmQWq2PPzYgVCWlA?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
 [![Code Palace](https://img.shields.io/twitter/follow/federicocotogno?label=Twitter)](https://twitter.com/federicocotogno)
