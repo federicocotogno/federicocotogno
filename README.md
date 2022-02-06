@@ -7,7 +7,7 @@ print(text)
 ```
 
 ## What I teach
-Currently I'm teaching native iOS development with SwiftUI. I also really like to teach how to create useful scripts with Python to simplify everyday life. 
+Currently I'm teaching native iOS development with SwiftUI. I also really enjoy teaching how to create powerful scripts with Python that simplify everyday life. 
 
 _You can find out more about what I teach **[here](https://www.youtube.com/c/CodePalace/)**._
 
