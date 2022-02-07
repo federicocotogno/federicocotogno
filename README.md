@@ -1,25 +1,9 @@
 ## About me
-My name is Federico and I'm a self taught developer and founder **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
+My name is Federico and I'm a self taught developer and founder of **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications _without a fancy degree, or an expensive education_.
 
 ```swift
 let text = "Learn to code for free!"
 print(text)
-```
-
-## What I teach
-Currently I'm teaching native iOS development with SwiftUI. I also really enjoy teaching how to create powerful scripts with Python that simplify everyday life. 
-
-_You can find out more about what I teach **[here](https://www.youtube.com/c/CodePalace/)**._
-
-```python
-
-
-def makeMoney():
-    money = 0
-    while True:
-          money += 1
-    
-makeMoney()
 ```
 
 ## Contact
