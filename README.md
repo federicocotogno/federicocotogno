@@ -1,5 +1,5 @@
 ## About me
-My name is Federico and I'm a self taught developer that founded **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
+My name is Federico and I'm a self taught developer and founder **[Code Palace](https://www.youtube.com/c/CodePalace/)**, a brand that teaches anyone that has access to a computer how to code and build modern applications without a fancy degree, or an expensive education.
 
 ```swift
 let text = "Learn to code for free!"
