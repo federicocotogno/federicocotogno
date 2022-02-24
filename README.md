@@ -6,11 +6,14 @@ let text = "Learn to code for free!"
 print(text)
 ```
 
+
 ## Contact
 If you'd like to contact me, you can do so through **[LinkedIn](https://www.linkedin.com/in/federicocotogno/)**.
 
-[![Code Palace](https://img.shields.io/youtube/channel/subscribers/UCuudpdbKmQWq2PPzYgVCWlA?label=Code%20Palace&style=social)](https://www.youtube.com/c/CodePalace/videos)
-[![Code Palace](https://img.shields.io/github/followers/federicocotogno?style=social)](https://github.com/federicocotogno)
+## Support
+If you enjoy my content, then consider buying me a coffee!
+
+<a href="https://www.buymeacoffee.com/federicocotogno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="140"></a>
 
 
 
