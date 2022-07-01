@@ -11,6 +11,6 @@ print(status)
 
 
 ## Contact
-If you'd like to contact me, you can do so through **[LinkedIn](https://www.linkedin.com/in/federicocotogno/)**.
+If you'd like to contact me, you can do so through **[my website](https://www.pycontent.com)**.
 
 
